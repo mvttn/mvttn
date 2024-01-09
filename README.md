@@ -10,7 +10,7 @@ When I'm not developing and building things, you can find me on YouTube learning
 <p>
 
 ### 📖 What am currently learning
-- Full Stack Web Development  * Progress 20% *
+- Full Stack Web Development  * Progress 32% *
 - AI & Machine Learning  * Progress 4% *
 - Algorithmic Trading * Progress 0% *
 
