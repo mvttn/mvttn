@@ -4,7 +4,7 @@
 <p align="center">I'm an aspiring Fullstack Developer from Australia!
 I'm also currently doing my BS in Computer Science and Physics while working on other projects.
 I currently passionate and interested in Web and App development, AI, and Algorithmic trading.
-When I'm not developing and building things, you can find me on YouTube learning, writing an article, watching anime, daydreaming, or gaming.</p>
+When I'm not developing and building things, you can find me on YouTube learning, watching anime, gyming, running or gaming.</p>
 
 <em><p align="center"><a href="#">My Personal Website and Portfolio Built, Hosted on Github <strong>Coming Soon!</strong></a></p></em>
 <p>
