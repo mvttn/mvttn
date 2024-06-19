@@ -10,7 +10,7 @@ When I'm not developing and building things, you can find me on YouTube learning
 <p>
 
 ### 📖 What am currently learning
-- Full Stack Web Development  * Progress 36% *
+- Full Stack Web Development  * Progress 47% *
 - AI & Machine Learning  * Progress 4% *
 - Cloud * Progress 1% *
 
