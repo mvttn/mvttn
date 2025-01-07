@@ -4,21 +4,17 @@
 <p align="center">I'm an aspiring Fullstack Developer from Australia!
 I'm also currently doing my BS in Computer Science and Physics while working on other projects.
 I currently passionate and interested in Web and App development, AI, and just building cool stuff.
-When I'm not developing and building things, you can find me on YouTube learning, watching anime, gyming, running or gaming.</p>
+When I'm not developing and building things, you can find me on YouTube learning, watching anime, gyming, running, or gaming.</p>
 
-<em><p align="center"><a href="#">My Personal Website and Portfolio Built, Hosted on Github <strong>Coming Soon!</strong></a></p></em>
-<p>
 
 ### 📖 What am currently learning
-- Full Stack Web Development  * Progress 47% *
-- AI & Machine Learning  * Progress 4% *
-- Cloud * Progress 1% *
+- Full Stack Web Development
+- AI & Machine Learning 
 
 ![robot](https://github.com/mvttn/mvttn/assets/85101143/d9695b58-eb86-4ada-8049-1840241bb25b)
 
 ### 📫 Where to find me
 - [LinkedIn](www.linkedin.com/in/mvttn) 👨💼
-- [Website](Coming soon...) 😏🔗
 
 <!--
 **mvttn/mvttn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
